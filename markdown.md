@@ -3,6 +3,8 @@
 3. [And now the efficiency considerations](#and-now-the-efficiency-considerations)
 4. [One final optimization](#one-final-optimization)
 
+View the source on [**GitHub**](https://github.com/Galetie/Primes-Java/tree/Part1)
+
 ## Primes refresher <a name="primes-refresher"></a>
 Q. Why is the number 1 not a prime?  
 A. Because the definition of a prime is:
